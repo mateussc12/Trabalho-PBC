@@ -1,0 +1,23 @@
+Relatorio final do jogo1:
+
+
+Jogador 1
+Nome: mateus 
+Valor apostado:5
+Seus numeros que foram gerados:
+905 903 221 317 824 807 548 806 552 557 295 72 722 407 193 1 716 923 778 351 133 768 751 729 486 176 949 303 703 377 
+Sua soma total: 16273
+Seu desvio padrao:285.282776
+________________________________________________
+Jogador 2
+Nome: jorge 
+Valor apostado:6
+Seus numeros que foram gerados:
+646 685 880 669 261 516 161 334 559 657 27 878 188 754 337 998 100 590 89 685 717 261 576 348 660 880 333 655 785 66 
+Sua soma total: 15295
+Seu desvio padrao:278.695374
+________________________________________________
+-----------------------------------------------------------
+Parabens mateus, ou jogador 1, voce foi o vencedor!!!!
+Seu premio foi de:11 doces!!!
+-----------------------------------------------------------

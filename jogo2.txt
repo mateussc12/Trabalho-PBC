@@ -1,0 +1,18 @@
+Relatorio final do jogo2:
+
+
+Jogador 1
+Nome: mateus 
+Valor apostado:10
+____________________________________________________________
+Jogador 2
+Nome: igor 
+Valor apostado:10
+____________________________________________________________
+A cartela gerada:
+752 209 591 921 148 300 999 850 201 194 18 369 305 864 993 140 162 223 60 759 64 678 803 791 277 25 85 229 900 96 
+-----------------------------------------------------------
+Parabens igor, ou jogador 2, voce foi o vencedor!!!!
+Com a menor quantidade de numeros gerados:23010,
+Seu premio foi de:20 doces!!!
+-----------------------------------------------------------
